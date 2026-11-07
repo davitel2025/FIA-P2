@@ -119,7 +119,6 @@ Ao rodar, as células que imprimem tabelas em LaTeX (`... \\`) reproduzem direta
 
 - **SAEB 2021 e 2023:** INEP, resultados por município. <https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/saeb/resultados>
 - **IDHM-Renda 2010 (`IDHM_R`):** Atlas do Desenvolvimento Humano no Brasil (PNUD, Ipea, Fundação João Pinheiro). <https://www.atlasbrasil.org.br/consulta/planilha>
-- O arquivo do SAEB 2025 está em `Dados/`, mas **não foi usado**.
 
 ## 6. Uso de LLMs
 
